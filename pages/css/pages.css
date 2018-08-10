@@ -159,3 +159,12 @@ button#hover:hover{
     color: #aaffa5;
     transition: .4s ease-in-out;
 }
+
+footer{
+    background-color: #557f53;
+    padding: 1%;
+    text-align: center;
+    margin-top: 5%;
+    border-radius: 40rem;
+    color: white;
+}
